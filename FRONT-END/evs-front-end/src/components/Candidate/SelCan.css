@@ -1,0 +1,64 @@
+.container-tab {
+    max-width: 400px;
+    margin-left: 38%;
+align-items: center;
+    border: 2px solid black;
+    margin-bottom: 15px;
+   margin-top: 5%;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .container-full
+  {
+      background-image: url("https://cdn5.vectorstock.com/i/1000x1000/29/44/green-color-geometric-mosaic-background-vector-21562944.jpg");
+      height: 98vh;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      margin-bottom: 0;
+    }
+  
+  form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  
+  input[type='text'] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 8px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+ 
+  
+  
+  button{
+    margin-top: 20px;
+  }
+ 
+  
+  .container-tab {
+    flex: 1;
+    padding: 0 16px;
+
+  }
+  

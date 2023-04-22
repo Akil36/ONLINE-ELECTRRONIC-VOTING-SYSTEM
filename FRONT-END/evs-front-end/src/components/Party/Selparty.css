@@ -1,0 +1,27 @@
+.s {
+    max-width: 400px;
+    margin-left: 35%;
+    align-items: center;
+    margin-bottom: 60px;
+    margin-top: 150px;
+    
+    
+  }
+  .s{
+    flex: 1;
+    padding: 0 16px;
+
+  }
+
+  .c
+  {
+      background-image: url("https://cdn5.vectorstock.com/i/1000x1000/29/44/green-color-geometric-mosaic-background-vector-21562944.jpg");
+      height: 97vh;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      margin-bottom: 0;
+    
+      
+    }

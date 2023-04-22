@@ -1,0 +1,40 @@
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 80px;
+    border: 2px solid black;
+    
+  }
+ .a6{
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/29/44/green-color-geometric-mosaic-background-vector-21562944.jpg");
+    height: 98vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 0;
+ }
+  .contact-form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  button[type='submit'] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,18 @@
+.header {
+    
+
+    padding: 10px;
+    text-align: center;
+    background: #4dd3b4;
+    height: 40px;
+    font-size: 80px;
+    color: black;
+  }
+h1{
+    padding-left: 0%;
+  }
+  .head{
+    position: static;
+    
+  }
+  

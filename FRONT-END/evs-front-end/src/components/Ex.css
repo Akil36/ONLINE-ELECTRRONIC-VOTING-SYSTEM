@@ -1,0 +1,27 @@
+/* div{
+    background-color: rgb(235, 236, 231);
+   
+} */
+
+  .nav{
+    background-color: rgb(235, 236, 231);
+    
+    border-right: 70px;
+  }
+  .nav {
+    display: flex;
+    
+    justify-content: flex-end;
+  }
+  
+  .nav-items {
+    color: hotpink;
+    
+    display: flex;
+    gap: 16px; /* Adjust the gap value to adjust the space between the link elements */
+  }
+  a{
+    color:black;
+    text-decoration: teal;
+
+  }
